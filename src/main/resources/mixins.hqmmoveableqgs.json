@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "datrat.hqmmoveableqgs.mixin",
+  "refmap": "mixins.hqmmoveableqgs.refmap.json",
+  "target": "@env(DEFAULT)",
+  "mixins": [
+    "MixinBlockPistonBase",
+    "MixinTileEntityPiston"
+  ]
+}

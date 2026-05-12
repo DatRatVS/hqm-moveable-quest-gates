@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "hqmmoveableqgs",
+    "name": "Hardcore Questing Mode: Moveable Quest Gates",
+    "description": "Allows HQM quest gate portal blocks to move with vanilla pistons while preserving portal tile data.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["datrat"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": ["required-after:HardcoreQuesting"]
+  }
+]
